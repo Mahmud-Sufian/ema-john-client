@@ -1,0 +1,24 @@
+.single-product{
+    display: flex;
+    border-bottom: 1px solid lightgrey;
+    padding: 10px;
+}
+.single-product img{
+    height: 50%;
+    margin-bottom: 30px;
+}
+.product-body{
+    padding-left: 20px;
+}
+.product-body h3{
+    color: blue;
+}
+.myBtn{
+    width: 150px;
+    height: 40px;
+    background: goldenrod;
+    border: 1px solid grey;
+}
+.myBtn:hover{
+    color: #fff; 
+}

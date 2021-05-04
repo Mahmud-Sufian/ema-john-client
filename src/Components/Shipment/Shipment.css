@@ -1,0 +1,20 @@
+.shipment-form{
+    width: 50%;
+    /* margin: 20px auto; */
+}
+.shipment-form input{
+    display: block;
+    width: 100%;
+    height: 40px;
+    margin-top: 10px;
+    color: rgb(141, 57, 48);
+    outline-color: salmon;
+    border: none;
+    background-color: rgb(223, 191, 191);
+}
+.shipment-form input[type=submit]{
+    background-color: salmon;
+}
+.error{
+    color: red;
+}
