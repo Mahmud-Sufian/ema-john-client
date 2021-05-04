@@ -1,9 +1,9 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyD32Xv1h5Dk8vh8mKtRGfWhMs2p-S-85V8",
-    authDomain: "login-form-phero.firebaseapp.com",
-    projectId: "login-form-phero",
-    storageBucket: "login-form-phero.appspot.com",
-    messagingSenderId: "387891068176",
-    appId: "1:387891068176:web:0ab9cc6be58f586b6c7995"
-  };
+  apiKey: "AIzaSyCxe3SmOLrerHwvx0gYerpl1RavnPqrB9g",
+  authDomain: "genuine-period-311318.firebaseapp.com",
+  projectId: "genuine-period-311318",
+  storageBucket: "genuine-period-311318.appspot.com",
+  messagingSenderId: "740399306896",
+  appId: "1:740399306896:web:4bc4a778a42445b0142015"
+};
   export default firebaseConfig;
